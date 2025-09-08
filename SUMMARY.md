@@ -16,5 +16,5 @@
   * [PVP對戰與分配機制](白皮書/04_PVP對戰與分配機制.md)
   * [技術架構](白皮書/05_技術架構.md)
   * [發展路線圖](白皮書/06_發展路線圖.md)
-* [语雀](yu-que/README.md)
+* [一頁簡介](yu-que/README.md)
   * [🏛️ Mythoria神話之地](语雀/Mythoria_yuque繁體文檔.md)
