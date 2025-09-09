@@ -49,7 +49,7 @@ _"Let gaming economy be as eternal as mythological legends, let AI wisdom empowe
 ### **2. Dual-Token Model** 💎
 
 * **FUSD**: 200M supply, 1:1 USDT peg
-* **MYR**: 20T supply, deflationary mechanism
+* **MYR**: 2B supply, deflationary mechanism
 * **Dual Pools**: Swap1 (FUSD/USDT) + Swap2 (FUSD/MYR)
 
 ### **3. Ten-Room Challenge** 🎮
@@ -70,7 +70,7 @@ _"Let gaming economy be as eternal as mythological legends, let AI wisdom empowe
 
 **Token Info:**
 
-* Total Supply: 20 trillion MYR
+* Total Supply: 20 billion MYR
 * Deflationary with multiple burning mechanisms
 * 100% locked in Swap2 liquidity pool
 
