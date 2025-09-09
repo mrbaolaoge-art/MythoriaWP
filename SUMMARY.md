@@ -16,5 +16,6 @@
   * [PVP對戰與分配機制](白皮書/04_PVP對戰與分配機制.md)
   * [技術架構](白皮書/05_技術架構.md)
   * [發展路線圖](bai-pi-shu/fa-zhan-lu-xian-tu.md)
-* [一頁簡介](yu-que/README.md)
-  * [🏛️ Mythoria神話之地](yu-que/mythoria-shen-hua-zhi-di.md)
+* [One-pager](one-pager/README.md)
+  * [Mythoria: Land of Legends](one-pager/mythoria-land-of-legends.md)
+  * [Mythoria神話之地](one-pager/mythoria-shen-hua-zhi-di.md)
