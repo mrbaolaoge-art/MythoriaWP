@@ -18,4 +18,4 @@
   * [發展路線圖](bai-pi-shu/fa-zhan-lu-xian-tu.md)
 * [One-pager](one-pager/README.md)
   * [Mythoria: Land of Legends](one-pager/mythoria-land-of-legends.md)
-  * [Mythoria神話之地](one-pager/mythoria-shen-hua-zhi-di.md)
+  * [Mythoria神話之地](one-pager/mythoria-one-pager.md)
